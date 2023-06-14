@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "ESP32_FREERTOS_QUEUE_MANAGE",
+			"path": ".."
+		},
+		{
+			"name": "ESP32_FREERTOS_SEMEPHORE_INTERRUPT",
+			"path": "../../ESP32_FREERTOS_SEMEPHORE_INTERRUPT"
+		}
+	],
+	"settings": {}
+}

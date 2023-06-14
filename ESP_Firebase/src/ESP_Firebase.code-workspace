@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "ESP_Firebase",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.tpp": "cpp",
+			"esp_wifi.h": "c",
+			"esp_log.h": "c"
+		}
+	}
+}

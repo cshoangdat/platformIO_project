@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+D:/Documents/PlatformIO/Projects/ESP_Firebase/build/CMakeFiles/bootloader
+D:/Documents/PlatformIO/Projects/ESP_Firebase/build/CMakeFiles/bootloader.rule
+D:/Documents/PlatformIO/Projects/ESP_Firebase/build/CMakeFiles/bootloader-complete.rule
+D:/Documents/PlatformIO/Projects/ESP_Firebase/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+D:/Documents/PlatformIO/Projects/ESP_Firebase/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+D:/Documents/PlatformIO/Projects/ESP_Firebase/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+D:/Documents/PlatformIO/Projects/ESP_Firebase/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+D:/Documents/PlatformIO/Projects/ESP_Firebase/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+D:/Documents/PlatformIO/Projects/ESP_Firebase/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+D:/Documents/PlatformIO/Projects/ESP_Firebase/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

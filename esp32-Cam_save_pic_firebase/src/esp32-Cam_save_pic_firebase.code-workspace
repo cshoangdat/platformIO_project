@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "esp32-Cam_save_pic_firebase",
+			"path": ".."
+		},
+		{
+			"name": "ESP32-Cam_I2C-Sensors",
+			"path": "../../ESP32-Cam_I2C-Sensors"
+		}
+	],
+	"settings": {}
+}

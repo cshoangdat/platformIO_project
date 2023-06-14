@@ -1,0 +1,9 @@
+{
+	"folders": [
+		{
+			"name": "UART_ESP32",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}

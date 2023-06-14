@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "ESP32_ Smart Tree Planting",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.tpp": "cpp"
+		}
+	}
+}

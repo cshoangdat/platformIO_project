@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "espidf_AWS_IOT",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.tpp": "cpp"
+		}
+	}
+}

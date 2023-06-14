@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Test_Module_AS",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"ostream": "cpp"
+		}
+	}
+}
